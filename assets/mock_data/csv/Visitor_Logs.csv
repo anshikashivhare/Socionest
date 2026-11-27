@@ -1,0 +1,2 @@
+visitor_log_id,visitor_name,phone,flat_id,purpose,entry_time,exit_time,recorded_by,approval_status
+VIS001,Kabir Singh,9000000100,FLT001,Delivery,2026-11-27 10:15,2026-11-27 10:25,STF001,approved
