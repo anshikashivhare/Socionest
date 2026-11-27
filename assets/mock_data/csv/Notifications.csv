@@ -1,0 +1,2 @@
+notification_id,recipient_type,recipient_id,title,message,created_at,is_read
+NTF001,resident,RES001,Maintenance reminder,Your November maintenance bill is due soon.,2026-11-27 08:00,false
