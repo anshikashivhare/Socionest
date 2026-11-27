@@ -1,0 +1,2 @@
+payment_id,bill_id,amount,payment_date,payment_method,transaction_reference,status
+PAY001,BIL002,2500,2026-11-05,UPI,DEMO-TXN-001,successful
