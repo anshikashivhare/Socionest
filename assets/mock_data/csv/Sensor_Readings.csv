@@ -1,0 +1,3 @@
+reading_id,device_id,recorded_at,metric,value,unit
+RDG001,SNS002,2026-11-27 09:00,water_level,78,percent
+RDG002,SNS002,2026-11-27 10:00,water_level,74,percent
