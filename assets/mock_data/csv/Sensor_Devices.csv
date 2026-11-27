@@ -1,0 +1,3 @@
+device_id,device_name,device_type,location,installed_at,status
+SNS001,Main Gate Camera,security_camera,Main Gate,2026-01-10,online
+SNS002,Overhead Tank Sensor,water_level,Block A Tank,2026-01-15,online
