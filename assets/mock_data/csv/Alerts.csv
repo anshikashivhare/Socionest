@@ -1,0 +1,2 @@
+alert_id,device_id,alert_type,message,created_at,severity,status
+ALT001,SNS002,low_water,Water level is below the configured threshold,2026-11-27 10:05,medium,open
