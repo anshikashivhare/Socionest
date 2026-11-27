@@ -1,0 +1,2 @@
+booking_id,resident_id,facility_name,booking_date,start_time,end_time,booking_status
+FAC001,RES001,Community Hall,2026-12-05,17:00,20:00,confirmed
