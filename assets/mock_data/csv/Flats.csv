@@ -1,0 +1,4 @@
+flat_id,building_id,flat_number,floor,area_sqft,status
+FLT001,BLD001,A-101,1,950,occupied
+FLT002,BLD001,A-102,1,1100,occupied
+FLT003,BLD002,B-201,2,1050,vacant
